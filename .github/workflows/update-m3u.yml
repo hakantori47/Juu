@@ -1,5 +1,10 @@
 name: Update M3U Playlist
-
+- name: Install dependencies
+  run: |
+    pip install --upgrade pip
+    pip install requests urllib3 playwright
+    playwright install-deps
+    playwright install
 on:
   schedule:
     - cron: '*/15 * * * *'
