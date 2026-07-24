@@ -14,6 +14,10 @@ https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivea2.m3u8
 #EXTINF:-1 tvg-name="A2" group-title="Ulusal Kanallar",A2
 https://andro.2385437.xyz/checklist/androstreamlivea2.m3u8
+#EXTINF:-1 tvg-name="Alligators - Tigers (09:30)" group-title="Maç Yayınları",Alligators - Tigers (09:30)
+https://andro.2385437.xyz/checklist/androstreamlivech39551705.m3u8
+#EXTINF:-1 tvg-name="Alligators - Tigers (09:30)" group-title="Maç Yayınları",Alligators - Tigers (09:30)
+https://andro.2385437.xyz/checklist/androstreamlivech39551705.m3u8
 #EXTINF:-1 tvg-name="Antrenman Seansi (10:55)" group-title="Maç Yayınları",Antrenman Seansi (10:55)
 https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-name="Antrenman Seansi (12:05)" group-title="Maç Yayınları",Antrenman Seansi (12:05)
@@ -62,10 +66,6 @@ https://andro.2385437.xyz/checklist/androstreamlivebsm2.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
 #EXTINF:-1 tvg-name="Cbc Sport" group-title="Diğer",Cbc Sport
 https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
-#EXTINF:-1 tvg-name="Diablos Rojos Del Mexico - Panteras de Aguascalientes (05:15)" group-title="Maç Yayınları",Diablos Rojos Del Mexico - Panteras de Aguascalientes (05:15)
-https://andro.2385437.xyz/checklist/androstreamlivech39548225.m3u8
-#EXTINF:-1 tvg-name="Diablos Rojos Del Mexico - Panteras de Aguascalientes (05:15)" group-title="Maç Yayınları",Diablos Rojos Del Mexico - Panteras de Aguascalientes (05:15)
-https://andro.2385437.xyz/checklist/androstreamlivech39548225.m3u8
 #EXTINF:-1 tvg-name="Euro Sport 1" group-title="Diğer Kanallar",Euro Sport 1
 https://andro.2385437.xyz/checklist/androstreamlivees1.m3u8
 #EXTINF:-1 tvg-name="Euro Sport 1" group-title="Diğer Kanallar",Euro Sport 1
@@ -114,14 +114,26 @@ https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
 #EXTINF:-1 tvg-name="Fb Tv" group-title="Diğer",Fb Tv
 https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
+#EXTINF:-1 tvg-name="Fernando Ganuka - Colin Sinclair (09:04)" group-title="Maç Yayınları",Fernando Ganuka - Colin Sinclair (09:04)
+https://andro.2385437.xyz/checklist/androstreamlivech39551689.m3u8
+#EXTINF:-1 tvg-name="Fernando Ganuka - Colin Sinclair (09:04)" group-title="Maç Yayınları",Fernando Ganuka - Colin Sinclair (09:04)
+https://andro.2385437.xyz/checklist/androstreamlivech39551689.m3u8
 #EXTINF:-1 tvg-name="Final (13:00)" group-title="Maç Yayınları",Final (13:00)
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="Galatasaray - Monza (21:00)" group-title="Maç Yayınları",Galatasaray - Monza (21:00)
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1 tvg-name="Ganzhou Ganxing (w) - Shandong Chishui Jiu (w) (09:30)" group-title="Maç Yayınları",Ganzhou Ganxing (w) - Shandong Chishui Jiu (w) (09:30)
+https://andro.2385437.xyz/checklist/androstreamlivech39551765.m3u8
+#EXTINF:-1 tvg-name="Ganzhou Ganxing (w) - Shandong Chishui Jiu (w) (09:30)" group-title="Maç Yayınları",Ganzhou Ganxing (w) - Shandong Chishui Jiu (w) (09:30)
+https://andro.2385437.xyz/checklist/androstreamlivech39551765.m3u8
 #EXTINF:-1 tvg-name="Gs Tv" group-title="Diğer",Gs Tv
 https://andro.2385437.xyz/checklist/androstreamlivegs.m3u8
 #EXTINF:-1 tvg-name="Gs Tv" group-title="Diğer",Gs Tv
 https://andro.2385437.xyz/checklist/androstreamlivegs.m3u8
+#EXTINF:-1 tvg-name="Hebei (w) - Jiangsu (w) (09:30)" group-title="Maç Yayınları",Hebei (w) - Jiangsu (w) (09:30)
+https://andro.2385437.xyz/checklist/androstreamlivech39551811.m3u8
+#EXTINF:-1 tvg-name="Hebei (w) - Jiangsu (w) (09:30)" group-title="Maç Yayınları",Hebei (w) - Jiangsu (w) (09:30)
+https://andro.2385437.xyz/checklist/androstreamlivech39551811.m3u8
 #EXTINF:-1 tvg-name="Ht Spor" group-title="Spor",Ht Spor
 https://andro.2385437.xyz/checklist/androstreamliveht.m3u8
 #EXTINF:-1 tvg-name="Ht Spor" group-title="Spor",Ht Spor
@@ -148,6 +160,14 @@ https://andro.2385437.xyz/checklist/androstreamlivenba.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivenba.m3u8
 #EXTINF:-1 tvg-name="R.Kuniev - T.Fortune (19:30)" group-title="Maç Yayınları",R.Kuniev - T.Fortune (19:30)
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1 tvg-name="Radu David Turcanu - Tudor Batin (10:06)" group-title="Maç Yayınları",Radu David Turcanu - Tudor Batin (10:06)
+https://andro.2385437.xyz/checklist/androstreamlivech39552305.m3u8
+#EXTINF:-1 tvg-name="Radu David Turcanu - Tudor Batin (10:06)" group-title="Maç Yayınları",Radu David Turcanu - Tudor Batin (10:06)
+https://andro.2385437.xyz/checklist/androstreamlivech39552305.m3u8
+#EXTINF:-1 tvg-name="Resul Atayev - Akam Bakr (07:35)" group-title="Maç Yayınları",Resul Atayev - Akam Bakr (07:35)
+https://andro.2385437.xyz/checklist/androstreamlivech39550381.m3u8
+#EXTINF:-1 tvg-name="Resul Atayev - Akam Bakr (07:35)" group-title="Maç Yayınları",Resul Atayev - Akam Bakr (07:35)
+https://andro.2385437.xyz/checklist/androstreamlivech39550381.m3u8
 #EXTINF:-1 tvg-name="S Sport" group-title="S Sports",S Sport
 https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
 #EXTINF:-1 tvg-name="S Sport" group-title="S Sports",S Sport
@@ -268,6 +288,10 @@ https://andro.2385437.xyz/checklist/androstreamlivetv8.m3u8
 https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
 #EXTINF:-1 tvg-name="Tv8,5" group-title="Ulusal Kanallar",Tv8,5
 https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
+#EXTINF:-1 tvg-name="Uzbekistan - Sri Lanka (08:30)" group-title="Maç Yayınları",Uzbekistan - Sri Lanka (08:30)
+https://andro.2385437.xyz/checklist/androstreamlivech39550739.m3u8
+#EXTINF:-1 tvg-name="Uzbekistan - Sri Lanka (08:30)" group-title="Maç Yayınları",Uzbekistan - Sri Lanka (08:30)
+https://andro.2385437.xyz/checklist/androstreamlivech39550739.m3u8
 #EXTINF:-1 tvg-name="Y.Hanfmann - Q.Halys (13:30)" group-title="Maç Yayınları",Y.Hanfmann - Q.Halys (13:30)
 https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="Yari Final Maç 1 (11:00)" group-title="Maç Yayınları",Yari Final Maç 1 (11:00)
